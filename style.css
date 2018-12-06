@@ -1,0 +1,179 @@
+body, html {
+height: 100%
+}
+
+.topnav {
+	background-color: grey;
+	overflow: hidden;
+}
+
+.topnav a {
+	float: left;
+	display: block;
+	color: #ADFF2F;
+	text-align: right;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.topnav a:hover {
+	background-color: #DA70D6;
+	color: #000000;
+}
+
+.topnav a.active {
+	background-color: chartreuse;
+	color: #DC143C;
+}
+
+div.hero-image {
+	background-image: url("img/yam waffles.jpg");
+	height: 90%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+div.hero-text {
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50;
+	transition: translate(-50%, -50%;)
+	color: black;
+	}
+
+	div.hero-text h2 {
+		font-size: 3em;
+	}
+
+	div.hero-text a button {
+		color: white;
+		border-color: orchid;
+		background-color: orchid;
+		padding: 10px;
+	}
+
+	.description {
+		max-width: 600px;
+		text-align: center;
+		margin: auto;
+	}
+
+	.column {
+		float: left;
+		width: 33.33%
+	}
+
+	.column img {
+		width: 300px;
+		height: auto;
+	}
+
+	.row {
+		text-align: center;
+		padding-bottom: 30px;
+	}
+
+	.row:after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+
+div.hero-image2 {
+	background-image: url("img/yam-pancakes.jpg");
+	height: 90%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+
+
+footer {
+	background-color: grey;
+	text-align: center;
+	margin-top: 5px;
+	padding: 5px;
+}
+
+footer p {
+	color: black;
+	font-family: cursive;
+	font-size: 20px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	}
